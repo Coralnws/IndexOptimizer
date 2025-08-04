@@ -1,0 +1,2 @@
+# IndexOptimizer
+Proactive Query Harmonizer leveraging adaptiveResourceAllocation and metadataAnalysis for highPerformance dataDriven Refiner. implementing modern parallelQueryExecution patterns
